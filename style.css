@@ -1,6 +1,7 @@
 body{
     background-color: rgb(148, 200, 176);
 }
+
 h1{
     text-align: center;
     background-color: rgb(10, 86, 51);
@@ -13,33 +14,34 @@ h2{
     background-color: rgb(10, 86, 51);
     font-size: 40px;
     color: white;
-
 }
+
 #sunflower, #daisy, #lavender, #link{
     color: black;
     font-size: 30px;
     font-style: italic;
     margin-bottom: 30px;
 }
+
 .table, .table-title{
     text-align: center;
 
     font-size: 35px;
     border: 3px solid green;
-
 }
+
 p{
     color: brown;
     font-size: 35px;
     font-family: monospace;
     font-weight: bold;
     float: right;
-
 }
 
 .black-frame {
     border: 10px double rgb(38, 38, 38);
 }
+
 #sun{
     background: rgb(212, 212, 106);
     width: 50%;
@@ -47,6 +49,7 @@ p{
     overflow-y: auto;
     overflow-x: hidden;
 }
+
 #dai{
     background: white;
     width: 75%;
